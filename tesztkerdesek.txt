@@ -1,0 +1,58 @@
+﻿Mikor volt a mohácsi vész?
+1526 1 történelem
+Melyik évben bomlott fel a Nyugat Római Birodalom?
+476 1 történelem
+Melyik évben kezdődött a Honfoglalás?
+895 1 történelem
+Mikor adták ki az Aranybullát?
+1222 1 történelem
+Melyik évben adták ki Angliában a Magna Chartat?
+1215 3 történelem
+Mikor vezette be Károly Róbert a kapuadót?
+1336 3 történelem
+Melyik évben volt a Budai Nagy Antal-féle parasztfelkelés?
+1437 2 történelem
+Melyik évben égették meg Husz Jánost?
+1415 3 történelem
+Melyik évben volt a nándorfehérvári diadal?
+1456 2 történelem
+Melyik évben volt a Dózsa-féle parasztfelkelés?
+1524 1 történelem
+Mikor kötötték meg a zsitvatoroki békét?
+1606 2 történelem
+Mikor volt a Kiegyezés?
+1867 1 történelem
+Melyik évben vezették be Magyarországon a 8 órás munkaidőt?
+1937 3 történelem
+Mikor volt az Anschluss?
+1938 2 történelem
+Melyik évben alakult meg a NATO?
+1949 2 történelem
+Mennyi egy háromszög belső szögeinek összege?
+180 1 matematika
+Hány hektár egy négyzetmérföld?
+640 3 matematika
+Hány éle van egy oktaédernek?
+12 2 matematika
+Mennyi a cos360 fok értéke?
+1 2 matematika
+Hány m mély a világ legmélyebb tava, a Bajkál-tó?
+1642 2 földrajz
+Hány km hosszú a világ leghosszabb folyója, az Amazonas?
+6992 2 földrajz
+Hány m magas a Kékes?
+1014 1 földrajz
+Hány m mély a Marianna-árok?
+11034 2 földrajz
+Hámy m a világ legmagasabb hegye, a Csomolungma? 
+8848 2 földrajz
+Hány %-kal nő a jég térfogata a vízhez képest? 
+9 3 kémia
+Hány fokon legnagyobb a fíz sűrűsége?
+4 2 kémia
+A víz  -( ) fokon sűrűn folyóvá válik.
+120 3 kémia
+
+
+
+
