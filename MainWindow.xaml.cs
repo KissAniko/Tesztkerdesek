@@ -213,7 +213,7 @@ namespace Tesztkerdesek
 
     }
 
-/* Elvégzett feladatok: - Fájl beírás
+/* Elvégzett feladatok: - Fájlolvasás
  *                      - Hány feladat van az adatfájlban?
                         - Határozza meg hány történelmi kérdés van a feladatban,
                           s ezek közül hány feladat ér 1, 2 ill. 3 pontot. Írassa ki képernyőre is.                          
@@ -235,7 +235,7 @@ namespace Tesztkerdesek
                         - Ellenőrzés GOMB aktiválása.
                         - 10 véletlenszerű kérdésekből álló feladatsort kiíratása
                         - pontszámok összeadása,---> mennyi adható összesen a feladatsorra
-                        - Fájlba írás
+                        - Fájlbaírás
 
  Használt elemek az xaml-ben : label, ComboBox, TextBox, Button*/
 
